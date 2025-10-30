@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.oddNumbers{
+    background-color:pink;
+    font-family: 'verdana', 'dejaVu sans', 'sans-serif';
+
+
+}
+
+#secondElement{
+    color: blue;
+    font-size: 32px;
+}
+#big{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
